@@ -14,12 +14,7 @@
 			margin-top: 50px;
 			margin-bottom: 50px;
 		}
-		.carousel {
-			position: absolute;
-			bottom: 0;
-			width: 100%;
-		}
-
+		
 
 	
         body {
@@ -43,10 +38,7 @@
             font-weight: bold;
             color: #333;
         }
-        .carousel-item img {
-            max-height: 400px;
-            margin: 0 auto;
-        }
+       
         .carousel-control-prev, .carousel-control-next {
             font-size: 24px;
         }
@@ -70,8 +62,8 @@
         }
 
         .carousel-item img {
-            width: 200%;
-            height: auto;
+            width: 100%;
+           
             object-fit: contain;
             margin-top: 200px;
           }
