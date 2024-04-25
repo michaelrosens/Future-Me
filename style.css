@@ -2,6 +2,8 @@
 body {
     font-family: 'Roboto', sans-serif;
     background: linear-gradient(135deg, #0a192f, #283c63);
+    background-repeat: no-repeat;
+    height: 100vh;
   }
   
   h1 {
