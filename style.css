@@ -19,6 +19,8 @@ body {
     margin-top: 50px;
     margin-bottom: 50px;
   }
+
+
   
   
   .navbar {
@@ -31,6 +33,7 @@ body {
   
   .navbar-brand {
     font-size: 24px;
+    color: white
     font-weight: bold;
   }
   
@@ -43,11 +46,12 @@ body {
   .navbar-nav .nav-link {
     color: #fff;
     transition: color 0.3s ease;
+    font-family: "Lugrasimo", cursive;
+    font-weight: 400;
+    font-style: normal;
   }
   
-  .navbar-nav .nav-link:hover {
-    color: 
-  }
+  
   
   .carousel-item {
     display: flex;
