@@ -6,12 +6,12 @@ body {
     height: 100vh;
   }
   
-  h1 {
+  h{
     text-align: center;
     font-size: 48px;
     margin-top: 50px;
     font-weight: bold;
-    color: #333;
+    color: #ffff;
   }
   
   .lawyer-text {
@@ -131,3 +131,4 @@ body {
   .modal-footer button:hover {
     background-color: #555;
   }
+  
